@@ -1,7 +1,7 @@
 *{
 	margin: 0;
 	padding: 0;
-	font-family: 'Poppins', 'sans-serif;';
+	font-family: 'Poppins', 'sans-serif';
 	box-sizing: border-box;
 }
 html{
@@ -10,7 +10,7 @@ html{
 }
 
 body{
-	background: #080808;
+	background: #060047;
 	color: #fff;
 	min-height: 100%;
 
@@ -18,7 +18,7 @@ body{
 
 #header{
 	width: 90%;
-	height: 150vh;
+	height: 162vh;
 	background-image: url(./images/background.jpg);
 	background-size: 50%;
 	background-position: right;
@@ -28,7 +28,7 @@ body{
 
 }
 .container{
-	padding: 10px 10%;
+	padding: 15px 10%;
 }
 
 nav{
@@ -71,10 +71,10 @@ nav ul li a:hover::after{
 	font-size: 40px;
 }
 .header-text h1{
-	font-size: 40px;
+	font-size: 35px;
 	margin-top: 20px;
 }
-.header-text h1 p span{
+.text-color {
 	color: #ff004f;
 }
 
